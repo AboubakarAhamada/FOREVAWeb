@@ -1,0 +1,12 @@
+.contact{
+    background-size: cover;
+    background-image: url("../img/contact-us-banner.jpg");
+    height: 100%;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+.w3-col img{
+    height: 260px;
+    width: 250px;
+}
