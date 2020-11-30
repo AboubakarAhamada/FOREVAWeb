@@ -1,13 +1,10 @@
 .action{
     background-color: #fff;
 }
-.contact{
-    background-size: cover;
-    background-image: url("../img/contact-us-banner.jpg");
-    height: 100%;
-    color: white;
-    margin: 0;
-    padding: 0;
+h1{
+    font-family:"Poppins",Helvetica,Arial,sans-serif ;
+    text-align: center;
+    margin: 30px;
 }
 #work img{
     height: 260px;
@@ -26,6 +23,8 @@
     grid-gap: 10px;
     padding: 10px;
     text-align: center;
+    margin-bottom: 50px;
+    margin-top: 50px;
 }
 
 .item >img{
@@ -43,4 +42,42 @@
     background-color: #1b2e63 ;
     color: #fff;
     line-height: 1.2;
+}
+
+
+/************ Skills **********************/
+#skills{
+    font-family:"Poppins",Helvetica,Arial,sans-serif ;
+    font-size: medium;
+    line-height: 1.7;
+}
+/******************* CONTACT ***************/
+
+#contact{
+    background-size: cover;
+    background-image: url("../img/contact-us-banner.jpg");
+    height: 75%;
+    font-family:"Poppins",Helvetica,Arial,sans-serif ;
+    color: white;
+    margin-top: 30px;
+    padding-top: 50px;
+    opacity: 1.0;
+}
+
+#contact h1{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+#contact .btn{
+	margin: 20px;
+	padding: 10px;
+	border:2px solid;
+	border-radius: 30px;
+	color: #fff;
+}
+.contact .col-md-4 .fa{
+	font-size: 35px;
+}
+i a{
+    color: #fff;
 }
