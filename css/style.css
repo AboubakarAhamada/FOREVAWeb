@@ -28,6 +28,9 @@ h1{
     font-size: 18px;
     font-weight: bolder;
 }
+p a{
+    text-decoration: none;
+}
 /********* Grid : Technologies Section ********/
 
 .grid-container{
