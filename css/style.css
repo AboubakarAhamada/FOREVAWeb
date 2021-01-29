@@ -20,7 +20,7 @@ h1{
     line-height: 1.3;
 }
 
-#myNavbar a, #mySidebar a, #jump1,#jump2{
+#myNavbar a, #mySidebar a, #philo a, #jump1,#jump2{
     text-decoration: none;
 }
 #jump1, #jump2{
@@ -28,9 +28,7 @@ h1{
     font-size: 18px;
     font-weight: bolder;
 }
-p a{
-    text-decoration: none;
-}
+
 /********* Grid : Technologies Section ********/
 
 .grid-container{
